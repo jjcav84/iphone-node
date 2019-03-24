@@ -1,0 +1,25 @@
+{
+  "name": "iphone-node",
+  "version": "1.0.0",
+  "description": "package.json for iphone-node",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjcav84/iphone-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jacob Cavazos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjcav84/iphone-node/issues"
+  },
+  "homepage": "https://github.com/jjcav84/iphone-node#readme",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
