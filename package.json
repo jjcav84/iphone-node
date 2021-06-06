@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/jjcav84/iphone-node#readme",
   "devDependencies": {
-    "eslint": "6.8.0"
+    "eslint": "7.28.0"
   }
 }
